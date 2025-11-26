@@ -1,6 +1,4 @@
-# DV-Python
-
-DataValidation-Automation Tool-Python
+**READ ME**
 
 **Project Overview:**
 
