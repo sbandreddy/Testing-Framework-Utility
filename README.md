@@ -1,5 +1,3 @@
-**READ ME**
-
 **Project Overview:**
 
 This project is a compact utility that converts low level trade data into two structured workbooks used to drive an automated testing framework.
