@@ -8,6 +8,6 @@ This project is a compact utility that converts low level trade data into two st
 
 **Outcome:** Eliminated repetitive manual labour, drastically improved output quality of the testing framework.
 
-**Note:** Due to Company's Proprietary polices, all Attributes and Naming Conventions used are examples.
+**Note:** Due to Company's Proprietary polices, all Attributes and Naming Conventions used are synthetic.
 
 
